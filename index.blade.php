@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kapil Sharma | Laravel Developer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- SEO -->
+    <meta name="description" content="Kapil Sharma – Laravel Developer with 3+ years of experience in SaaS, Multi-Tenant Systems, Government Portals, REST APIs, and Payment Gateway Integration.">
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- AOS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Particles -->
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+</head>
+<body>
+
+<!-- CURSOR -->
+<div class="cursor"></div>
+
+<!-- HERO -->
+<section class="hero position-relative text-center">
+    <div id="particles-js"></div>
+
+    <div class="container hero-content">
+        <img src="profile.jpeg" class="profile-img" alt="Kapil Sharma" data-aos="zoom-in">
+
+        <h1 data-aos="fade-up">Kapil Sharma</h1>
+
+        <p class="subtitle" data-aos="fade-up" data-aos-delay="200">
+            Laravel Developer • SaaS • Multi-Tenant Architect
+        </p>
+
+        <p data-aos="fade-up" data-aos-delay="400">
+            3+ Years Experience • 18+ Projects • Government & Enterprise Platforms
+        </p>
+
+        <p data-aos="fade-up" data-aos-delay="600">
+            Laravel • REST APIs • Payment Gateways • Database Optimization
+        </p>
+    </div>
+</section>
+
+<!-- ABOUT -->
+<section class="section" data-aos="fade-up">
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            I am a professional <strong>Laravel Developer</strong> with more than
+            <strong>3 years of hands-on experience</strong> in developing, maintaining,
+            and scaling web applications.
+        </p>
+        <p>
+            I specialize in <strong>SaaS platforms, multi-tenant architectures,
+            RESTful APIs, and secure enterprise-grade applications</strong>.
+        </p>
+        <p>
+            Along with development, I actively handle <strong>live production systems</strong>,
+            bug fixing, performance tuning, and feature upgrades.
+        </p>
+    </div>
+</section>
+
+<!-- CURRENT WORK -->
+<section class="section bg-dark-alt" data-aos="fade-up">
+    <div class="container">
+        <h2>Current Work & Product Responsibility</h2>
+
+        <h5 class="mt-4">
+            GETYN – SaaS Platform
+            (<a href="https://www.getyn.com/" target="_blank">getyn.com</a>)
+        </h5>
+
+        <p>
+            I am currently responsible for handling and maintaining
+            <strong>GETYN</strong>, a live SaaS platform along with its
+            multiple product applications.
+        </p>
+
+        <ul>
+            <li>End-to-end maintenance of the main website and product applications</li>
+            <li>Bug fixing and performance optimization in live production</li>
+            <li>Database management, query optimization, and data integrity</li>
+            <li>Handling multi-tenant architecture and client-specific configurations</li>
+            <li>API integrations with third-party services</li>
+            <li>Monitoring uptime, logs, and error tracking</li>
+            <li>Feature enhancements based on business requirements</li>
+        </ul>
+
+        <p>
+            <strong>Role:</strong> Laravel Developer & Product Maintainer  
+            <br>
+            <strong>Tech Stack:</strong> Laravel, PHP, MySQL, REST APIs, Blade, JavaScript
+        </p>
+    </div>
+</section>
+
+<!-- SKILLS -->
+<section class="section bg-dark-alt" data-aos="fade-up">
+    <div class="container">
+        <h2>Technical Skills</h2>
+
+        <h6 class="mt-4">Backend</h6>
+        <span class="badge skill">Laravel</span>
+        <span class="badge skill">Core PHP</span>
+        <span class="badge skill">CakePHP</span>
+        <span class="badge skill">REST APIs</span>
+        <span class="badge skill">Laravel Tenancy</span>
+
+        <h6 class="mt-4">Frontend</h6>
+        <span class="badge skill">Blade</span>
+        <span class="badge skill">HTML</span>
+        <span class="badge skill">CSS</span>
+        <span class="badge skill">Bootstrap</span>
+        <span class="badge skill">JavaScript</span>
+        <span class="badge skill">AJAX</span>
+
+        <h6 class="mt-4">Database & Tools</h6>
+        <span class="badge skill">MySQL</span>
+        <span class="badge skill">Query Optimization</span>
+        <span class="badge skill">Indexing</span>
+        <span class="badge skill">Git</span>
+        <span class="badge skill">Bitbucket</span>
+        <span class="badge skill">Postman</span>
+
+        <h6 class="mt-4">Integrations</h6>
+        <span class="badge skill">Razorpay</span>
+        <span class="badge skill">Rebilly</span>
+        <span class="badge skill">Recurly</span>
+        <span class="badge skill">Xpay</span>
+        <span class="badge skill">SMS / Email APIs</span>
+    </div>
+</section>
+
+<!-- PROJECTS -->
+<section class="section">
+    <div class="container">
+        <div class="project-card" data-aos="fade-right">
+            <h2>Featured Projects</h2>
+
+            <h5 class="mt-4">BUHS Entrance Exam Portal</h5>
+            <p>
+                Government portal handling <strong>10,000+ applicants</strong> with automated exam
+                center allocation and admin dashboard.
+            </p>
+            <ul>
+                <li>Secure registration & authentication</li>
+                <li>Automated center allocation</li>
+                <li>OTP-based SMS & email alerts</li>
+                <li>High-traffic performance optimization</li>
+            </ul>
+            <p><strong>Tech:</strong> Laravel, MySQL, Blade, AJAX</p>
+            <a href="https://buhsjet.in" target="_blank">Visit Website</a>
+
+            <hr>
+
+            <h5>Document Storage System (Google Drive Clone)</h5>
+            <p>
+                Secure document storage system with folder hierarchy, RBAC,
+                encryption, and file versioning.
+            </p>
+            <p><strong>Tech:</strong> Laravel, MySQL, Blade</p>
+        </div>
+    </div>
+</section>
+
+<!-- CONTACT -->
+<section class="section bg-footer text-center">
+    <div class="container">
+        <h2>Contact</h2>
+        <p>📍 Delhi, India</p>
+        <p>📧 kapil302424@gmail.com</p>
+        <p>📞 +91-9897677434</p>
+        <p>
+            <a href="https://linkedin.com/in/kapil-sharma-64150a1b3" target="_blank">
+                LinkedIn Profile
+            </a>
+        </p>
+    </div>
+</section>
+
+<!-- JS -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+AOS.init({ duration: 1200, once: true });
+</script>
+
+<script>
+particlesJS("particles-js", {
+  particles: {
+    number: { value: 70 },
+    size: { value: 3 },
+    move: { speed: 1 },
+    line_linked: { enable: true },
+    color: { value: "#6f42c1" }
+  }
+});
+</script>
+
+<script>
+const cursor = document.querySelector('.cursor');
+document.addEventListener('mousemove', e => {
+  cursor.style.left = e.clientX + 'px';
+  cursor.style.top = e.clientY + 'px';
+});
+</script>
+
+</body>
+</html>
